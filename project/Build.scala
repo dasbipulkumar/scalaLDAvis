@@ -27,7 +27,7 @@ object Dependencies {
 }
 
 object BuildSettings {
-  val buildVersion = "0.1.1"
+  val buildVersion = "0.1.2"
   val buildScalaVersion = "2.11.8"
 
   val commonBuildSettings = Defaults.coreDefaultSettings ++ Seq(
